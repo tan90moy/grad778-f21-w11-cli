@@ -5,3 +5,4 @@ Superman Sucks again
 Favorite Food: Rice, Potato
 
 Favorite movies: Harry Potter, Spider man
+Favorite Drinks: Water, Coca-cola
